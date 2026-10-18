@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local temporary files
+*.tmp
+*.log
+test_*.png
+final_*.png
